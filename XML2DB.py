@@ -1,4 +1,4 @@
-# Сильно незавершенный скрипт
+# РЎРёР»СЊРЅРѕ РЅРµР·Р°РІРµСЂС€РµРЅРЅС‹Р№ СЃРєСЂРёРїС‚
 import os
 from xml.etree import ElementTree as ET
 import pymssql
