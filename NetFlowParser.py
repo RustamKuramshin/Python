@@ -56,7 +56,7 @@ for file in os.listdir():
 
                     print('Строка ', TotalConn)
                     print(line)
-                    print("fuck")
+                    print("fuck off")
 
                     NetFlowObj = NetFlowData(list_col)
 
