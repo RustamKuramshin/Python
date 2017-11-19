@@ -21,6 +21,8 @@ def send_mail(send_from, send_to, subject, text, server, user_name, user_passwd,
 
     msg.attach(MIMEText(text))
 
+    print("Hello world")
+
     with open (files, 'rb') as file:
         part = MIMEApplication(
             file.read(),
